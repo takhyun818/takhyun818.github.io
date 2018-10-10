@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Struggles while learning object orientation"
-date:       2018-10-10 18:31:39 +0000
+date:       2018-10-10 14:31:40 -0400
 permalink:  struggles_while_learning_object_orientation
 ---
 
